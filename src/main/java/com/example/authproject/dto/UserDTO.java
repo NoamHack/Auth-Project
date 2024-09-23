@@ -1,4 +1,4 @@
-package com.example.similarfingerprint.dto;
+package com.example.authproject.dto;
 
 import lombok.Data;
 

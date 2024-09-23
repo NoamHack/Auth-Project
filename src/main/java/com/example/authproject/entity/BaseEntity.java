@@ -1,4 +1,4 @@
-package com.example.similarfingerprint.entity;
+package com.example.authproject.entity;
 
 import jakarta.persistence.Id;
 import jakarta.persistence.MappedSuperclass;

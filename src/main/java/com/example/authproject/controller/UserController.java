@@ -1,6 +1,6 @@
-package com.example.similarfingerprint.controller;
-import com.example.similarfingerprint.dto.UserDTO;
-import com.example.similarfingerprint.service.UserService;
+package com.example.authproject.controller;
+import com.example.authproject.dto.UserDTO;
+import com.example.authproject.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

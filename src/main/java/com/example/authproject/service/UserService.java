@@ -1,8 +1,8 @@
-package com.example.similarfingerprint.service;
+package com.example.authproject.service;
 
-import com.example.similarfingerprint.dto.UserDTO;
-import com.example.similarfingerprint.entity.UserEntity;
-import com.example.similarfingerprint.repository.UserRepository;
+import com.example.authproject.dto.UserDTO;
+import com.example.authproject.entity.UserEntity;
+import com.example.authproject.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
